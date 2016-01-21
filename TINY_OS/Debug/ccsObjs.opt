@@ -1,0 +1,1 @@
+"./interrupt.obj" "./main.obj" "./scheduler.obj" "./semaphor.obj" "./testFunc.obj" "../lnk_msp430g2452.cmd" -l"libc.a" 
